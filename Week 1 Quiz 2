@@ -1,0 +1,47 @@
+1.
+Question 1
+
+Which are useful components when building custom Neural Network models?
+1 / 1 point
+
+All of the above.
+
+2.
+Question 2
+
+Which processing units can you run TensorFlow?
+1 / 1 point
+
+All of the above
+
+3.
+Question 3
+
+Which high level APIs are used for distributed training?
+1 / 1 point
+
+All of the above
+
+4.
+Question 4
+
+You need to build a custom machine learning model. What are your options?
+1 / 1 point
+
+Both B and C
+
+5.
+Question 5
+
+Which of the following API's are not used in the TensorFlow abstraction layers?
+1 / 1 point
+
+tf.image
+
+6.
+Question 6
+
+Which API is used to build performant, complex input pipelines from simple, re-usable pieces that will feed your model's training or evaluation loops.
+1 / 1 point
+
+tf.data.Dataset
