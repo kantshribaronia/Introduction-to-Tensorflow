@@ -1,0 +1,44 @@
+
+1.
+Question 1
+
+What operations can be performed on tensors?
+1 / 1 point
+
+Both A and B
+
+
+2.
+Question 2
+
+Which is an example of a rank 2 tensor?
+1 / 1 point
+
+Shape: [3,4]
+
+3.
+Question 3
+
+Which of the following is true when we compute a loss gradient?
+1 / 1 point
+
+
+All of the above
+
+4.
+Question 4
+
+Which of the following produces tensors that can be modified?
+1 / 1 point
+
+tf.Variable
+
+
+5.
+Question 5
+
+What is the significance of tf.Variable()?
+1 / 1 point
+
+A tf.Variable represents a tensor whose value can be changed by running ops on it. Specific ops allow you to read and modify the values of this tensor. Higher level libraries like tf.keras use tf.Variable to store model parameters.
+
